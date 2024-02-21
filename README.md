@@ -11,8 +11,6 @@ hi, i have worked so far today,here some information i can give you
 + marge
 + fork
 + brances as well as colaborate with team.
++ review code
+=======
 + give it the try
-# learn how to review code
-+ commets
-+ approve
-+ request changes
